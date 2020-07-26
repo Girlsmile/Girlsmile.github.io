@@ -100,4 +100,4 @@ theme: Next
 deploy:
   type: git
   repo: git@github.com:Girlsmile/Girlsmile.github.io.git
-  branch: master
+  branch: master 
