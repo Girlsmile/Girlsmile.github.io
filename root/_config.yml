@@ -98,4 +98,6 @@ theme: Next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:Girlsmile/Girlsmile.github.io.git
+  branch: master
