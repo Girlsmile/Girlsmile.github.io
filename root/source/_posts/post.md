@@ -1,6 +1,8 @@
-# Xcode Linking  "Other Linker Flags"  添加了 $(inherited) 的标签到底有什么作用？
-
-
+---
+title: Xcode Linking  "Other Linker Flags"  添加了 $(inherited) 的标签到底有什么作用？
+date: 2020-08-01 18:03:06
+tags:
+---
 
 ## 先来看看 Xcode buildSetting Linking "Other Linker Flags"的作用
 
